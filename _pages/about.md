@@ -22,14 +22,14 @@ I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/), in the Computational
 I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
 
 My research interest includes:
-  - HI in galaxies (low and medium redshift), and we want to find them, just like [ALFALFA](http://egg.astro.cornell.edu/index.php/) but much deeper.
-  - Galaxy formation and evolution, a huge topic, right?
-  - Observational Astronomy, especially radio astronomy using the single dish.
+  - **HI in galaxies** (low and medium redshift), and we want to find them, just like [ALFALFA](http://egg.astro.cornell.edu/index.php/) but much deeper.
+  - **Galaxy formation and evolution**, a huge topic, right?
+  - Multiband observational Astronomy, especially radio astronomy.
 
 You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
-- *2021.09 - present*, PhD candidate in NAOC and UCAS, major in astrophysics
+- *2021.09 - present*, PhD candidate in NAOC and UCAS, major in Astrophysics
 - *2017.09 - 2021.06*, Jilin University, Bachelor in Physics  
 
 # 🔥 News
@@ -89,7 +89,7 @@ View this [link](https://interstella.notion.site/Public-Engagement-78615c65ed8f4
 
 You can find some of my photographs from this [site](https://interstella.notion.site/Photos-and-Places-af3f8f5ad274444b88ae28a67044cd22) (may open slowly).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Beijing</div><img src='images/aurora.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Beijing</div><img src='images/aurora.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 20240511 Aurora in Beijing
