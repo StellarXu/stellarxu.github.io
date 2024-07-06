@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xu Chen"
-  avatar           : "images/avatar.png"
-  bio              : "NAOC & UCAS"
+  avatar           : "images/avatar.jpg"
+  bio              : "NAOC / UCAS"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://gitlab.com/StellarXu"
+  gitlib           : "https://gitlab.com/StellarXu"
   google_plus      :
   keybase          :
   instagram        :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "https://www.zhihu.com/people/stellarxu"
+  zhihu            : "https://www.zhihu.com/people/stellarxu"
   xing             :
   youtube          :
   wikipedia        :
