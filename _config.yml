@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Chen / NAOC"
+title                    : "Xu Chen / astro"
 description              : "An astrophysics PhD student"
 repository               : "stellarxu/stellarxu.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu Chen"
+  name             : "Xu Chen 徐晨"
   avatar           : "images/avatar.jpg"
   bio              : "NAOC / UCAS"
   location         : "Beijing, China"
