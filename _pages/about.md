@@ -28,6 +28,8 @@ My research interest includes:
 
 You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge/astroR2-zhihu-blue)](https://www.zhihu.com/people/stellarxu/).
+
 # 📖 Educations
 - *2021.09 - present*, PhD candidate in NAOC and UCAS, major in Astrophysics
 - *2017.09 - 2021.06*, Jilin University, Bachelor in Physics  
@@ -47,9 +49,9 @@ You can also use google scholar to view my publications <a href='https://scholar
 ## Co-authors
 
 1. Yingjie Jing, Jie Wang, **Chen Xu** *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST,  SCIENCE CHINA Physics, Mechanics & Astronomy, Volume 67, Issue 5, 2024, Pages 259514-, ISSN 1674-7348, [link](https://doi.org/10.1007/s11433-023-2333-8).
-2. Zhang, CP., Zhu, M., Jiang, P. *et al.* The FAST all sky H I survey (FASHI): The first release of catalog. *Sci. China Phys. Mech. Astron.* **67**, 219511 (2024). [link](https://doi.org/10.1007/s11433-023-2219-7)
-3. Ziming Liu; Jie Wang; Yingjie Jing; Zhiyu Zhang; **Chen Xu** *et al.* RAA, HIFAST: An HI Data Calibration and Imaging Pipeline for FAST II. Flux Density Calibration. [link](https://doi.org/10.1088/1674-4527/ad5398)
-4.  Ziming Liu; Jie Wang; Yingjie Jing; Tiantian Liang; Qingze Chen; **Chen Xu** *et al.* RAA, Observation of HI around three satellite galaxies of the M31 with the FAST: Andromeda II, NGC 205, and NGC 185. [link](https://doi.org/10.1088/1674-4527/ad5397)
+2. Zhang, CP., Zhu, M., Jiang, P. *et al.* The FAST all sky H I survey (FASHI): The first release of catalog. *Sci. China Phys. Mech. Astron.* **67**, 219511 (2024). [link](https://doi.org/10.1007/s11433-023-2219-7).
+3. Ziming Liu; Jie Wang; Yingjie Jing; Zhiyu Zhang; **Chen Xu** *et al.* RAA, HIFAST: An HI Data Calibration and Imaging Pipeline for FAST II. Flux Density Calibration. [link](https://doi.org/10.1088/1674-4527/ad5398).
+4.  Ziming Liu; Jie Wang; Yingjie Jing; Tiantian Liang; Qingze Chen; **Chen Xu** *et al.* RAA, Observation of HI around three satellite galaxies of the M31 with the FAST: Andromeda II, NGC 205, and NGC 185. [link](https://doi.org/10.1088/1674-4527/ad5397).
 
 
 # 📢 Talks and Awards
@@ -59,7 +61,7 @@ You can also use google scholar to view my publications <a href='https://scholar
 
 ## 🎖 Honors and Awards
 - *2022* UCAS 3 good student
-- *2021*	UCAS graduate scholarship
+- *2021* UCAS graduate scholarship
 - *2018-2021*	JLU First class scholarship
 
 # 🔭 Outreach
@@ -92,7 +94,7 @@ You can find some of my photographs from this [site](https://interstella.notion.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Beijing</div><img src='images/aurora.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-20240511 Aurora in Beijing
+Aurora in Beijing, on 2024.5.11 
 
 </div>
 </div>
@@ -106,15 +108,24 @@ You could learn more about me on this [notion site](https://interstella.notion.s
 
 ## astroR2
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">outreach</div><img src='images/zhihu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 Zhihu(知乎) is a Chinese Q & A platform like Quora. Sometimes I wrote scientific answers on it just for fun. Also, document my orthodontic experiences. Welcome to follow 知乎天文学优秀答主 [@astroR2](https://www.zhihu.com/people/stellarxu)!
 
 Here is a [collection](https://interstella.notion.site/astroR2-9fdcd59141fb4b609ffa779d34468d16?pvs=74) of my zhihu papers.
 
+</div>
+</div>
+
+
 ## Useful resources
 
-Here are some useful links of HI surveys, sultiband surveys and fundamentals of redio astronomy, just
+Here are some useful links of HI surveys, multiband surveys and fundamentals of radio astronomy, just
 [click here](https://www.notion.so/interstella/Useful-Links-840f0ea33304435c8698a102710b24c2).
 
+---
+ 
+Edited by astroR2 on 2024/07. All rights reserved. 
 
-##   
-Edited by astroR2 on 2024/07. All rights reserved.
+Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
