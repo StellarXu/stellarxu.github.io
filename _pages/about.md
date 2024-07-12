@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/), in the Computational Cosmology Group (we call it [CCG](http://groups.bao.ac.cn/ccg/)) led by Professor [Gao, Liang](https://people.ucas.ac.cn/~lgao). In the fall of 2021, I became a PhD student of my advisor ****[Wang, Jie](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
+I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](http://groups.bao.ac.cn/ccg/)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
 
 I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
 
@@ -26,9 +26,11 @@ My research interest includes:
   - **Galaxy formation and evolution**, a huge topic, right?
   - Multiband observational Astronomy, especially radio astronomy.
 
-You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and *download my* [**CV**](https://file.notion.so/f/f/5b2c32de-0ea4-4bd3-9ff6-5ec2bf1ae73f/a1352ea6-96ba-42ca-86fc-0f0ac618ca56/Academic_CV_XuChen.pdf?id=ef0ba22f-ae1c-48cd-900b-2c140547f7cf&table=block&spaceId=5b2c32de-0ea4-4bd3-9ff6-5ec2bf1ae73f&expirationTimestamp=1720915200000&signature=nbUF29fbQf903xJPIe0TakLiHiCHqryWoOoMd7kJUrE&downloadName=Academic_CV_XuChen.pdf) here.
 
-And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge/astroR2-zhihu-blue)](https://www.zhihu.com/people/stellarxu/).
+And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge/astroR2-zhihu-blue)](https://www.zhihu.com/people/stellarxu/), 
+[GitHub](https://github.com/StellarXu),
+and [GitLab](https://gitlab.com/StellarXu) !
 
 # 📖 Educations
 - *2021.09 - present*, PhD candidate in NAOC and UCAS, major in Astrophysics
@@ -44,7 +46,9 @@ And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge
 
 ## First Author
 
-1. 
+1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, in prep
+
+2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The HHD Survey Data Release, in prep
 
 ## Co-authors
 
@@ -60,6 +64,7 @@ And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge
 - *2023.10.26*	USTC Journal Club	(Online), Low-z HI Extragalactic Surveys of FAST: Observations, Data Reduction and some Early Results
 
 ## 🎖 Honors and Awards
+- *2024* UCAS Science Fiction and Popular Science Essay Contest, excellenct prize
 - *2022* UCAS 3 good student
 - *2021* UCAS graduate scholarship
 - *2018-2021*	JLU First class scholarship
