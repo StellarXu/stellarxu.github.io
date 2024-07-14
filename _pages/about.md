@@ -26,7 +26,7 @@ My research interest includes:
   - **Galaxy formation and evolution**, a huge topic, right?
   - Multiband observational Astronomy, especially radio astronomy.
 
-You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and *download my* [**CV**](https://file.notion.so/f/f/5b2c32de-0ea4-4bd3-9ff6-5ec2bf1ae73f/a1352ea6-96ba-42ca-86fc-0f0ac618ca56/Academic_CV_XuChen.pdf?id=ef0ba22f-ae1c-48cd-900b-2c140547f7cf&table=block&spaceId=5b2c32de-0ea4-4bd3-9ff6-5ec2bf1ae73f&expirationTimestamp=1720915200000&signature=nbUF29fbQf903xJPIe0TakLiHiCHqryWoOoMd7kJUrE&downloadName=Academic_CV_XuChen.pdf) here.
+You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and *download* my **CV** <a href="cv/Academic_CV_XuChen.pdf"> here.
 
 And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge/astroR2-zhihu-blue)](https://www.zhihu.com/people/stellarxu/), 
 [GitHub](https://github.com/StellarXu),
@@ -40,9 +40,6 @@ and [GitLab](https://gitlab.com/StellarXu) !
 - *2024.07*: &nbsp;🎉🎉 Our FAST-M31 HI deep survey has completed observations!
 
 # 📝 Publications 
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 
 ## First Author
 
