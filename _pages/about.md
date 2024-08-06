@@ -37,7 +37,8 @@ and [GitLab](https://gitlab.com/StellarXu) !
 - *2017.09 - 2021.06*, Jilin University, Bachelor in Physics  
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our FAST-M31 HI deep survey has completed observations!
+- *2024.07*: &nbsp;🎉🎉 Our FAST-M31 HI deep survey has completed!
+- *2024.08*: &nbsp;🎉🎉 Our HD2 survey has started!
 
 # 📝 Publications 
 
@@ -52,7 +53,7 @@ and [GitLab](https://gitlab.com/StellarXu) !
 1. Yingjie Jing, Jie Wang, **Chen Xu** *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST,  SCIENCE CHINA Physics, Mechanics & Astronomy, Volume 67, Issue 5, 2024, Pages 259514-, ISSN 1674-7348, [link](https://doi.org/10.1007/s11433-023-2333-8).
 2. Zhang, CP., Zhu, M., Jiang, P. *et al.* The FAST all sky H I survey (FASHI): The first release of catalog. *Sci. China Phys. Mech. Astron.* **67**, 219511 (2024). [link](https://doi.org/10.1007/s11433-023-2219-7).
 3. Ziming Liu; Jie Wang; Yingjie Jing; Zhiyu Zhang; **Chen Xu** *et al.* RAA, HIFAST: An HI Data Calibration and Imaging Pipeline for FAST II. Flux Density Calibration. [link](https://doi.org/10.1088/1674-4527/ad5398).
-4.  Ziming Liu; Jie Wang; Yingjie Jing; Tiantian Liang; Qingze Chen; **Chen Xu** *et al.* RAA, Observation of HI around three satellite galaxies of the M31 with the FAST: Andromeda II, NGC 205, and NGC 185. [link](https://doi.org/10.1088/1674-4527/ad5397).
+4.  Ziming Liu; Jie Wang; Yingjie Jing; **Chen Xu** *et al.* RAA, Observation of HI around three satellite galaxies of the M31 with the FAST: Andromeda II, NGC 205, and NGC 185. [link](https://doi.org/10.1088/1674-4527/ad5397).
 
 
 # 📢 Talks and Awards
@@ -124,10 +125,10 @@ Here is a [collection](https://interstella.notion.site/astroR2-9fdcd59141fb4b609
 ## Useful resources
 
 Here are some useful links of HI surveys, multiband surveys and fundamentals of radio astronomy, just
-[click here](https://www.notion.so/interstella/Useful-Links-840f0ea33304435c8698a102710b24c2).
+[click here](https://zhuanlan.zhihu.com/p/709909713) and my [radio collections](https://www.zhihu.com/collection/960548643)
 
 ---
  
-Edited by astroR2 on 2024/07. All rights reserved. 
+Edited by astroR2 on 2024/08. All rights reserved. 
 
 Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
