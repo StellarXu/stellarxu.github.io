@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](http://groups.bao.ac.cn/ccg/)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
+Hallo, Ich bin a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](http://groups.bao.ac.cn/ccg/)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
 
 I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
 
@@ -27,6 +27,8 @@ My research interest includes:
   - Multiband observational Astronomy, especially radio astronomy.
 
 You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and *download* my **CV** <a href="cv/Academic_CV_XuChen.pdf"> here.
+
+The citations by google scholar may be not updated correctly, so you can also find my publication library on [ADS](https://ui.adsabs.harvard.edu/public-libraries/SFEEX2HBRQGLC82HfMGiSg).
 
 And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge/astroR2-zhihu-blue)](https://www.zhihu.com/people/stellarxu/), 
 [GitHub](https://github.com/StellarXu),
@@ -54,6 +56,8 @@ and [GitLab](https://gitlab.com/StellarXu) !
 2. Zhang, CP., Zhu, M., Jiang, P. *et al.* The FAST all sky H I survey (FASHI): The first release of catalog. *Sci. China Phys. Mech. Astron.* **67**, 219511 (2024). [link](https://doi.org/10.1007/s11433-023-2219-7).
 3. Ziming Liu; Jie Wang; Yingjie Jing; Zhiyu Zhang; **Chen Xu** *et al.* RAA, HIFAST: An HI Data Calibration and Imaging Pipeline for FAST II. Flux Density Calibration. [link](https://doi.org/10.1088/1674-4527/ad5398).
 4.  Ziming Liu; Jie Wang; Yingjie Jing; **Chen Xu** *et al.* RAA, Observation of HI around three satellite galaxies of the M31 with the FAST: Andromeda II, NGC 205, and NGC 185. [link](https://doi.org/10.1088/1674-4527/ad5397).
+
+My full publication list can be found on [ADS](https://ui.adsabs.harvard.edu/public-libraries/SFEEX2HBRQGLC82HfMGiSg) or [ORCID](https://orcid.org/0000-0003-0062-4705).
 
 
 # 📢 Talks and Awards
@@ -129,6 +133,6 @@ Here are some useful links of HI surveys, multiband surveys and fundamentals of 
 
 ---
  
-Edited by astroR2 on 2024/08. All rights reserved. 
+Edited by astroR2 on 2024/09. All rights reserved. 
 
-Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
+Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Danke!
