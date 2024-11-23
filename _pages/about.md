@@ -46,9 +46,9 @@ and [GitLab](https://gitlab.com/StellarXu) !
 
 ## First Author
 
-1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, in prep
+1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, RAA, [link](https://iopscience.iop.org/article/10.1088/1674-4527/ad9653)
 
-2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The HHD Survey Data Release, in prep
+2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The pilot survey of the HD2 survey, in prep
 
 ## Co-authors
 
@@ -64,6 +64,7 @@ My full publication list can be found on [ADS](https://ui.adsabs.harvard.edu/pub
 ## 💬 Talks
 - *2021.11.23*	HiFAST Tech meeting in Beijing, Introduction of Ripples Removal and RFI Flagging in HiFAST
 - *2023.10.26*	USTC Journal Club	(Online), Low-z HI Extragalactic Surveys of FAST: Observations, Data Reduction and some Early Results
+- *2024.11.19*  Annual meeting of the FAST project in PKU/KIAA, A Pilot Survey for the Hundred-deg2 HI Deep (HD2) Survey: Optical Counterparts and Scaling Relations with DESI
 
 ## 🎖 Honors and Awards
 - *2024* UCAS Science Fiction and Popular Science Essay Contest, excellenct prize
