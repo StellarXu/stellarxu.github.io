@@ -39,14 +39,16 @@ and [GitLab](https://gitlab.com/StellarXu) !
 - *2017.09 - 2021.06*, Jilin University, Bachelor in Physics  
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our HD2 survey season 2 has started!
+- *2024.08*: &nbsp;🎉🎉 Our HD2 survey season 1 has started!
 - *2024.07*: &nbsp;🎉🎉 Our FAST-M31 HI deep survey has completed!
-- *2024.08*: &nbsp;🎉🎉 Our HD2 survey has started!
+
 
 # 📝 Publications 
 
 ## First Author
 
-1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, RAA, [link](https://iopscience.iop.org/article/10.1088/1674-4527/ad9653)
+1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, 2025 RAA. 25 015011 [link](https://iopscience.iop.org/article/10.1088/1674-4527/ad9653)
 
 2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The pilot survey of the HD2 survey, in prep
 
@@ -62,12 +64,15 @@ My full publication list can be found on [ADS](https://ui.adsabs.harvard.edu/pub
 
 # 📢 Talks and Awards
 ## 💬 Talks
-- *2021.11.23*	HiFAST Tech meeting in Beijing, Introduction of Ripples Removal and RFI Flagging in HiFAST
-- *2023.10.26*	USTC Journal Club	(Online), Low-z HI Extragalactic Surveys of FAST: Observations, Data Reduction and some Early Results
 - *2024.11.19*  Annual meeting of the FAST project in PKU/KIAA, A Pilot Survey for the Hundred-deg2 HI Deep (HD2) Survey: Optical Counterparts and Scaling Relations with DESI
+- *2023.10.26*	USTC Journal Club	(Online), Low-z HI Extragalactic Surveys of FAST: Observations, Data Reduction and some Early Results
+- *2021.11.23*	HiFAST Tech meeting in Beijing, Introduction of Ripples Removal and RFI Flagging in HiFAST
+
 
 ## 🎖 Honors and Awards
-- *2024* UCAS Science Fiction and Popular Science Essay Contest, excellenct prize
+- *2024* 2nd Astronomy Popular Science Collection Activity, 1st prize (collaborated)
+- *2024* UCAS Science Fiction and Popular Science Essay Contest, 1st prize (RMB 5,000) for Popular Science and 3rd prize (RMB 1,000) for sci-fiction
+- *2023* UCAS Science Fiction and Popular Science Essay Contest, excellent prize (RMB 500)
 - *2022* UCAS 3 good student
 - *2021* UCAS graduate scholarship
 - *2018-2021*	JLU First class scholarship
