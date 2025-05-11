@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hallo, Ich bin a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](http://groups.bao.ac.cn/ccg/)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
+Hello there, I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](http://groups.bao.ac.cn/ccg/)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
 
-I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
+I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now I am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
 
 My research interest includes:
   - **HI in galaxies** (low and medium redshift), and we want to find them, just like [ALFALFA](http://egg.astro.cornell.edu/index.php/) but much deeper.
@@ -32,7 +32,7 @@ The citations by google scholar may be not updated correctly, so you can also fi
 
 And welcome to follow my Zhihu(知乎) account [![](https://img.shields.io/badge/astroR2-zhihu-blue)](https://www.zhihu.com/people/stellarxu/), 
 [GitHub](https://github.com/StellarXu),
-and [GitLab](https://gitlab.com/StellarXu) !
+and [GitLab](https://gitlab.com/StellarXu)!
 
 # 📖 Educations
 - *2021.09 - present*, PhD candidate in NAOC and UCAS, major in Astrophysics
@@ -70,9 +70,10 @@ My full publication list can be found on [ADS](https://ui.adsabs.harvard.edu/pub
 
 
 ## 🎖 Honors and Awards
-- *2024* 2nd Astronomy Popular Science Collection Activity, 1st prize (collaborated)
-- *2024* UCAS Science Fiction and Popular Science Essay Contest, 1st prize (RMB 5,000) for Popular Science and 3rd prize (RMB 1,000) for sci-fiction
-- *2023* UCAS Science Fiction and Popular Science Essay Contest, excellent prize (RMB 500)
+- *2025* Zhihu New Knowledge Youth of 2024 (the top honor for a Zhihu user) 2024年度知乎新知答主(知乎用户的最高荣誉)
+- *2024* 2nd Astronomy Popular Science Collection Activity, 1st prize (collaborated) 第二届天文科普作品征集活动一等奖(合作文章)
+- *2024* UCAS Science Fiction and Popular Science Essay Contest, 1st prize (RMB 5,000) for Popular Science and 3rd prize (RMB 1,000) for sci-fiction 国科大科普科幻征文比赛的一等奖和三等奖
+- *2023* UCAS Science Fiction and Popular Science Essay Contest, excellent prize (RMB 500) 国科大科普科幻征文比赛的优秀奖
 - *2022* UCAS 3 good student
 - *2021* UCAS graduate scholarship
 - *2018-2021*	JLU First class scholarship
@@ -139,6 +140,6 @@ Here are some useful links of HI surveys, multiband surveys and fundamentals of 
 
 ---
  
-Edited by astroR2 on 2024/09. All rights reserved. 
+Edited by astroR2 on 2025/05. All rights reserved. 
 
 Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Danke!
