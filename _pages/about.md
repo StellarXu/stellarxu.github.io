@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello there, I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](http://groups.bao.ac.cn/ccg/)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
+Hello there, I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](https://ccg-naoc.github.io/index.html)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
 
 I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now I am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
 
