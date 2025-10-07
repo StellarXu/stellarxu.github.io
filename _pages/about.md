@@ -146,10 +146,10 @@ Here is a [collection](https://interstella.notion.site/astroR2-9fdcd59141fb4b609
 ## Useful resources
 
 Here are some useful links of HI surveys, multiband surveys and fundamentals of radio astronomy, just
-[click here](https://zhuanlan.zhihu.com/p/709909713) and my [radio collections](https://www.zhihu.com/collection/960548643)
+[click here](https://zhuanlan.zhihu.com/p/709909713) and my [radio collections](https://www.zhihu.com/collection/960548643) or [research notes](https://www.zhihu.com/column/c_1912183631671202510).
 
 ---
  
-Edited by astroR2 on 2025/05. All rights reserved. 
+Edited by astroR2 on 2025/10. All rights reserved. 
 
 Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Danke!
