@@ -19,7 +19,13 @@ redirect_from:
 
 Hello there, I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCAS](https://www.ucas.ac.cn/), in the Computational Cosmology Group (we call it [CCG](https://ccg-naoc.github.io/index.html)). In the fall of 2021, I became a PhD student of my advisor [**Wang, Jie**](https://people.ucas.ac.cn/~0024581), an excellent expert in galaxy formation, N-body simulations, large-scale structure of the universe, and deep learning in astronomy. 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">at FAST</div><img src='images/R2_at_FAST.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now I am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
+
+</div>
+</div>
 
 My research interest includes:
   - **HI in galaxies** (low and medium redshift), and we want to find them, just like [ALFALFA](http://egg.astro.cornell.edu/index.php/) but much deeper.
@@ -52,6 +58,8 @@ and [GitLab](https://gitlab.com/StellarXu)!
 
 2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The pilot survey of the HD2 survey, in prep
 
+3. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* Something on M31, in prep
+
 ## Co-authors
 
 1. Yingjie Jing, Jie Wang, **Chen Xu** *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST,  SCIENCE CHINA Physics, Mechanics & Astronomy, Volume 67, Issue 5, 2024, Pages 259514-, ISSN 1674-7348, [link](https://doi.org/10.1007/s11433-023-2333-8).
@@ -64,6 +72,8 @@ My full publication list can be found on [ADS](https://ui.adsabs.harvard.edu/pub
 
 # 📢 Talks and Awards
 ## 💬 Talks
+- *2025.09.28* 2nd FAST scientific meeting in Pingtang, The FAST Hundred-Deg2 HI Deep (HD2) Survey I. Early Results from the Pilot Survey
+- *2025.05.25* Guo Shoujing meeting in Changsha, Pilot Survey of the FAST Hundred-Deg2 HI Deep (HD2) Survey I. Early Results from the Extragalactic HI Catalog
 - *2024.11.19*  Annual meeting of the FAST project in PKU/KIAA, A Pilot Survey for the Hundred-deg2 HI Deep (HD2) Survey: Optical Counterparts and Scaling Relations with DESI
 - *2023.10.26*	USTC Journal Club	(Online), Low-z HI Extragalactic Surveys of FAST: Observations, Data Reduction and some Early Results
 - *2021.11.23*	HiFAST Tech meeting in Beijing, Introduction of Ripples Removal and RFI Flagging in HiFAST
