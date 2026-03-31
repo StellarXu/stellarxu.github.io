@@ -22,17 +22,17 @@ Hello there, I'm a PhD candidate at [NAOC](http://english.nao.cas.cn/) and [UCA
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">at FAST</div><img src='images/R2_at_FAST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now I am a member of the key project of FAST —— mapping M31, our neighbor galaxy, and conducting another deep HI survey named *Hundred-deg^2 HI Deep (HD2) Survey*.
+I'm more interested in radio astronomy, especially after the establishment of the Five-hundred-meter Aperture Spherical radio Telescope, [FAST](https://fast.bao.ac.cn/). In 2019, when I was a Junior at [Jilin University](https://www.jlu.edu.cn/), prof. Wang needs some undergraduates to learn how to process the HI data of FAST. So I joined his group and now I am a member of [the key project of FAST —— mapping M31](https://ccg-fast.github.io/m31/), our neighbor galaxy, and conducting another deep HI survey named [*Hundred-deg² HI Deep (HD²) Survey*](https://ccg-fast.github.io/hd2/) combined DESI.
 
 </div>
 </div>
 
 My research interest includes:
-  - **HI in galaxies** (low and medium redshift), and we want to find them, just like [ALFALFA](http://egg.astro.cornell.edu/index.php/) but much deeper.
-  - **Galaxy formation and evolution**, a huge topic, right?
+  - **HI in galaxies** (low redshift), and we want to find them, just like [ALFALFA](http://egg.astro.cornell.edu/index.php/) but much deeper.
+  - **Galaxy formation and evolution**, a huge topic, right? (I'm trying to find interesting connections between HI gas and star formation...)
   - Multiband observational Astronomy, especially radio astronomy.
 
-You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and *download* my **CV** <a href="cv/Academic_CV_XuChen.pdf"> here.
+You can also use google scholar to view my publications <a href='https://scholar.google.com/citations?user=xlsDuN0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and *download* my **CV** <a href="cv/Academic_CV_XuChen.pdf" target="_blank">📄 here.
 
 The citations by google scholar may be not updated correctly, so you can also find my publication library on [ADS](https://ui.adsabs.harvard.edu/public-libraries/SFEEX2HBRQGLC82HfMGiSg).
 
@@ -45,6 +45,8 @@ and [GitLab](https://gitlab.com/StellarXu)!
 - *2017.09 - 2021.06*, Jilin University, Bachelor in Physics  
 
 # 🔥 News
+More infomation can be found on our survey websites: [The FAST Hundred-deg² HI Deep (HD²) Survey](https://ccg-fast.github.io/hd2/) and [The FAST-M31 HI Deep Survey](https://ccg-fast.github.io/m31/).
+
 - *2025.01*: &nbsp;🎉🎉 Our HD2 survey season 2 has started!
 - *2024.08*: &nbsp;🎉🎉 Our HD2 survey season 1 has started!
 - *2024.07*: &nbsp;🎉🎉 Our FAST-M31 HI deep survey has completed!
@@ -56,22 +58,24 @@ and [GitLab](https://gitlab.com/StellarXu)!
 
 1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, 2025 RAA. 25 015011 [link](https://iopscience.iop.org/article/10.1088/1674-4527/ad9653)
 
-2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The pilot survey of the HD2 survey, in prep
+2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The FAST Hundred-Deg² \HI\ Deep (HD²) Survey: Early Results from the Pilot Survey, under reviewed by ApJS
 
-3. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* Something on M31, in prep
+3. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* Something interesting on the Large Diffuse HI Disk of N_HI = 10^{17-18}$ cm^{-2} around M31, in prep
 
 ## Co-authors
 
 1. Yingjie Jing, Jie Wang, **Chen Xu** *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST,  SCIENCE CHINA Physics, Mechanics & Astronomy, Volume 67, Issue 5, 2024, Pages 259514-, ISSN 1674-7348, [link](https://doi.org/10.1007/s11433-023-2333-8).
-2. Zhang, CP., Zhu, M., Jiang, P. *et al.* The FAST all sky H I survey (FASHI): The first release of catalog. *Sci. China Phys. Mech. Astron.* **67**, 219511 (2024). [link](https://doi.org/10.1007/s11433-023-2219-7).
+2. Zhang, CP., Zhu, M., Jiang, P. *et al.* The FAST all sky H I survey (FASHI): The first release of catalog. *Sci. China Phys. Mech. Astron.* 67, 219511 (2024). [link](https://doi.org/10.1007/s11433-023-2219-7).
 3. Ziming Liu; Jie Wang; Yingjie Jing; Zhiyu Zhang; **Chen Xu** *et al.* RAA, HIFAST: An HI Data Calibration and Imaging Pipeline for FAST II. Flux Density Calibration. [link](https://doi.org/10.1088/1674-4527/ad5398).
-4.  Ziming Liu; Jie Wang; Yingjie Jing; **Chen Xu** *et al.* RAA, Observation of HI around three satellite galaxies of the M31 with the FAST: Andromeda II, NGC 205, and NGC 185. [link](https://doi.org/10.1088/1674-4527/ad5397).
+4. Ziming Liu; Jie Wang; Yingjie Jing; **Chen Xu** *et al.* RAA, Observation of HI around three satellite galaxies of the M31 with the FAST: Andromeda II, NGC 205, and NGC 185. [link](https://doi.org/10.1088/1674-4527/ad5397).
+5. Tiantian Liang, Jie Wang, Tao Wang, Yingjie Jing, **Chen Xu** *et al.* Identification of Galactic H I Counterpart of the Large [O III] Emission Structure 1.2° Southeast of M31, AJ, 170(5), 253 (2025). [link](https://doi.org/10.3847/1538-3881/ae064b).
 
 My full publication list can be found on [ADS](https://ui.adsabs.harvard.edu/public-libraries/SFEEX2HBRQGLC82HfMGiSg) or [ORCID](https://orcid.org/0000-0003-0062-4705).
 
 
 # 📢 Talks and Awards
 ## 💬 Talks
+- *2026.01.15* Student-organized HI unofficial discussion club, A Large Diffuse HI Disk of NHI = 10^{17-18} cm-2 Rotating around M31 and Photoionization Analysis (LOC: me)
 - *2025.09.28* 2nd FAST scientific meeting in Pingtang, The FAST Hundred-Deg2 HI Deep (HD2) Survey I. Early Results from the Pilot Survey
 - *2025.05.25* Guo Shoujing meeting in Changsha, Pilot Survey of the FAST Hundred-Deg2 HI Deep (HD2) Survey I. Early Results from the Extragalactic HI Catalog
 - *2024.11.19*  Annual meeting of the FAST project in PKU/KIAA, A Pilot Survey for the Hundred-deg2 HI Deep (HD2) Survey: Optical Counterparts and Scaling Relations with DESI
@@ -84,6 +88,7 @@ My full publication list can be found on [ADS](https://ui.adsabs.harvard.edu/pub
 - *2024* 2nd Astronomy Popular Science Collection Activity, 1st prize (collaborated) 第二届天文科普作品征集活动一等奖(合作文章)
 - *2024* UCAS Science Fiction and Popular Science Essay Contest, 1st prize (RMB 5,000) for Popular Science and 3rd prize (RMB 1,000) for sci-fiction 国科大科普科幻征文比赛的一等奖和三等奖
 - *2023* UCAS Science Fiction and Popular Science Essay Contest, excellent prize (RMB 500) 国科大科普科幻征文比赛的优秀奖
+- *2022* 1st UCAS Women's Football Tournament, Champion
 - *2022* UCAS 3 good student
 - *2021* UCAS graduate scholarship
 - *2018-2021*	JLU First class scholarship
@@ -150,6 +155,6 @@ Here are some useful links of HI surveys, multiband surveys and fundamentals of 
 
 ---
  
-Edited by astroR2 on 2025/10. All rights reserved. 
+Edited by astroR2 on 2026/03. All rights reserved. 
 
 Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Danke!
