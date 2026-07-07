@@ -56,11 +56,11 @@ More infomation can be found on our survey websites: [The FAST Hundred-deg² HI 
 
 ## First Author
 
-1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, 2025 RAA. 25 015011 [link](https://iopscience.iop.org/article/10.1088/1674-4527/ad9653)
+1. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The FAST Hundred-deg2 H I Deep (HD2) Survey: Early Results from the Pilot Survey， 2026 ApJS 285 25 [link](https://iopscience.iop.org/article/10.3847/1538-4365/ae7331)
 
-2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* The FAST Hundred-Deg² \HI\ Deep (HD²) Survey: Early Results from the Pilot Survey, under reviewed by ApJS
+2. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* HiFAST: An H i data calibration and imaging pipeline for FAST III. Standing Wave Removal, 2025 RAA. 25 015011 [link](https://iopscience.iop.org/article/10.1088/1674-4527/ad9653)
 
-3. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* Something interesting on the Large Diffuse HI Disk of N_HI = 10^{17-18}$ cm^{-2} around M31, in prep
+3. **Chen Xu**, Jie Wang, Yingjie Jing *et al.* Detection of the HI disk of M31 to a radius of 63 kpc, in prep
 
 ## Co-authors
 
@@ -155,6 +155,6 @@ Here are some useful links of HI surveys, multiband surveys and fundamentals of 
 
 ---
  
-Edited by astroR2 on 2026/03. All rights reserved. 
+Edited by astroR2 on 2026/07. All rights reserved. 
 
 Based on the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). Danke!
