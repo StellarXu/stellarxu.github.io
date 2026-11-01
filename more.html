@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 浏览器标签页 / 搜索结果里显示的标题 -->
+  <title>More · Xu, Chen / astroR2 - Homepage</title>
+  <meta name="description" content="Xu, Chen's personal homepage. ">
+
+  <link rel="icon" href="images/common/favicon.ico">
+  <link rel="apple-touch-icon" href="images/common/apple-touch-icon.png">
+
+  <!-- 样式在 assets/style.css, 脚本在 assets/site.js (暗色模式要尽早加载, 所以放在 head) -->
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/site.js"></script>
+</head>
+
+<body>
+
+  <!-- ================= 顶部导航栏 (每个页面都一样) ================= -->
+  <header class="nav">
+    <a class="brand" href="index.html">Xu, Chen <span>/ astroR2 - Homepage</span></a>
+    <nav>
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="talks.html">Talks &amp; Awards</a></li>
+          <li><a href="outreach.html">Outreach</a></li>
+          <li><a href="more.html" class="on">More</a></li>
+
+          <!-- 暗色/浅色切换按钮 (逻辑在 assets/site.js) -->
+          <li><button id="theme" type="button" aria-label="Toggle dark mode">Dark</button></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1 class="page-title">More</h1>
+    <p class="sub">Something maybe useful or interesting?</p>
+
+    <h2>Useful resources</h2>
+    <ul>
+      <li>
+        <a href="https://ccg-fast.github.io/links">CCG-FAST links</a>:
+        a collection of links about multiband surveys and the fundamentals of radio astronomy,
+        especially useful for H I research.
+      </li>
+      <li>
+        <a href="https://www.zhihu.com/collection/960548643">Radio astronomy collections</a>:
+        Chinese-language resources covering single-dish and interferometric observations,
+        unofficial HiFAST documentation, and useful radio astronomy software such as CASA tutorials.
+      </li>
+      <li>
+        <a href="https://www.zhihu.com/column/c_1912183631671202510">Research notes and tutorials</a>:
+        Chinese-language notes and tutorials on GADGET-4, Cloudy, MARTINI, Linux, Python, and other tools.
+      </li>
+    </ul>
+
+    <h3>My public code</h3>
+    <ul>
+      <li>
+        <a href="https://github.com/StellarXu/hiviewer">hiviewer</a>:
+        a tool for checking and displaying the contents of FITS files.
+      </li>
+      <li>
+        <a href="https://github.com/StellarXu/obshelper">obshelper</a>:
+        a package for planning H I spectral-line observations.
+      </li>
+    </ul>
+
+    <h2>About me</h2>
+
+    <!-- 左: 北极熊图片 + caption (images/more/polar_bear.jpg)   右: Name 和 Hometown 两段文字 -->
+    <div class="about">
+      <figure>
+        <img class="avatar" src="images/more/polar_bear.jpg" alt="Polar bear">
+        <figcaption>Anakins' lightsaber!</figcaption>
+      </figure>
+
+      <div>
+        <p>
+          My name is written as 徐晨. In China, Xu is my family name and Chen is my first name, so you can call me
+          Xu Chen, or just Chen. The reason why I was named this, is that my father's family name is Xu(徐)
+          and my mother's family name is Chen(陈). That's simple, right?
+        </p>
+
+        <p>
+          I was born in the final year of the 20th century. I live in a small city, which is located at 119deg 35' 18" E,
+          39° 55'54"N. Where I live for more than twenty years is extremely near the sea, or the Pacific Ocean, on the
+          top of this page. Watching Orion rising above a vast expanse of sea, wow, is beyond my words.
+        </p>
+      </div>
+    </div>
+
+    </div>
+
+    <h2>Some questions？</h2>
+
+    Here are some questions that people often ask me, and my answers. Most of them are from Zhihu, a Chinese Q&A website. 
+    You can click the links to see my full answers in Chinese.
+
+<!-- 每个问题: 左边文字, 右边图片 (图片放在 images/ 里, 没放时显示淡蓝色占位块) -->
+
+    <div class="card photo">
+      <div>
+        <h3>Why do you want to learn astronomy?</h3>
+        <p>
+          Good question! Here is my full answer:
+          <a href="https://www.zhihu.com/question/23002025/answer/2965097937">你为什么选择天文学？ - 知乎</a><br>
+          Short answer: This man!
+        </p>
+      </div>
+      <div class="ph">
+        <img src="images/more/liucixin.png" alt="This man!"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/more/liucixin.png'))">
+      </div>
+    </div>
+
+    <div class="card photo">
+      <div>
+        <h3>Do you like Star Wars?</h3>
+        <p>
+          Of course, I’m a Star Wars fan!!!<br>
+          <a href="https://www.zhihu.com/question/39225442/answer/1776082909">星战粉都是怎么迷上《星球大战》的？ - 知乎</a><br>
+          You can see my ID is astro Artoo!!!
+        </p>
+      </div>
+      <div class="ph">
+        <img src="images/more/droids.jpeg" alt="Droids"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/more/droids.jpeg'))">
+      </div>
+    </div>
+
+    <div class="card photo">
+      <div>
+        <h3>You studied physics first?</h3>
+        <p>
+          Yeah, in this answer, I wrote the experience of four-year at JLU:
+          <a href="https://www.zhihu.com/question/24398508/answer/3079340487">在吉林大学就读是怎样一番体验？ - 知乎</a>
+        </p>
+      </div>
+      <div class="ph">
+        <img src="images/more/physics_building.png" alt="Physics building, Jilin University"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/more/physics_building.png'))">
+      </div>
+    </div>
+
+    <div class="card photo">
+      <div>
+        <h3>How’re your teeth going?</h3>
+        <p>
+          See this collection:<br>
+          My orthodontic experiences —
+          <a href="https://www.zhihu.com/collection/865248094">医学流水账 - 收藏夹 - 知乎</a>
+          I have plenty of experience as a dental patient, and I volunteer at NAOC to advise my fellow students on oral health.
+        </p>
+      </div>
+      <div class="ph">
+        <img src="images/more/teeth.jpg" alt="Teeth X-ray"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/more/teeth.jpg'))">
+      </div>
+    </div>
+
+    <div class="card photo">
+      <div>
+        <h3>Other hobbies?</h3>
+        <p>
+          Sci-fic, detective movies, poor football…..<br>
+          Yeah, this 憨憨 is me.
+        </p>
+      </div>
+      <div class="ph">
+        <img src="images/more/football.jpeg" alt="Football"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/more/football.jpeg'))">
+      </div>
+    </div>
+
+    <p>Let me think of anything else…</p>
+
+  </main>
+
+  <!-- ================= 页脚 ================= -->
+  <footer>Edited by astroR2 · Last updated <span id="last-updated">2026</span> · All rights reserved.</footer>
+
+</body>
+</html>

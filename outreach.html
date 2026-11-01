@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 浏览器标签页 / 搜索结果里显示的标题 -->
+  <title>Outreach · Xu, Chen / astroR2 - Homepage</title>
+  <meta name="description" content="Xu, Chen's personal homepage. ">
+
+  <link rel="icon" href="images/common/favicon.ico">
+  <link rel="apple-touch-icon" href="images/common/apple-touch-icon.png">
+
+  <!-- 样式在 assets/style.css, 脚本在 assets/site.js (暗色模式要尽早加载, 所以放在 head) -->
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/site.js"></script>
+</head>
+
+<body>
+
+  <!-- ================= 顶部导航栏 (每个页面都一样) ================= -->
+  <header class="nav">
+    <a class="brand" href="index.html">Xu, Chen <span>/ astroR2 - Homepage</span></a>
+    <nav>
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="research.html">Research</a></li>
+          <li><a href="talks.html">Talks &amp; Awards</a></li>
+          <li><a href="outreach.html" class="on">Outreach</a></li>
+          <li><a href="more.html">More</a></li>
+
+          <!-- 暗色/浅色切换按钮 (逻辑在 assets/site.js) -->
+          <li><button id="theme" type="button" aria-label="Toggle dark mode">Dark</button></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1 class="page-title">Outreach</h1>
+    <p class="sub">I'm an amateur astronomer … trying to do some public engagement (and I love it!).</p>
+
+    <!-- 图文块: 图片占一半宽度, 文字在另一半 (手机上自动上下排) -->
+    <h2>Public Engagement</h2>
+    <p class="sub">Here are many organizations. </p>
+
+    <div class="card photo">
+      <img src="images/outreach/jas_activity.png" alt="JAS">
+      <p>
+        <span class="badge" style="margin:0 0 .4rem">JAS</span><br>
+        In JAS (Jilin university Astronomy Society), I spent a lot of unforgettable days with JASers, these lovely people.
+        We have astronomy lectures, stargazing (camping and BBQ!), and outreach activities in the campus.
+      </p>
+    </div>
+
+    <div class="card photo">
+      <img src="images/outreach/spring.jpeg" alt="UCAS">
+      <p>
+        <span class="badge" style="margin:0 0 .4rem">UCAS</span><br> <span class="badge" style="margin:0 0 .4rem">UCASAA</span><br>
+        Outreach Department of the UCAS Astronomy Association: take passers-by and classmates to see the stars, and participate the Equinox Project: play with primary school students and tell them how to find aliens.
+      </p>
+    </div>
+
+    <div class="card photo">
+      <img src="images/outreach/public.jpg" alt="NAOC Graduate Student Union outreach">
+      <p>
+        <span class="badge" style="margin:0 0 .4rem">NAOC</span><br>
+        Outreach Department of the NAOC Graduate Student Union: roadside astronomy, outreach in primary and
+        secondary schools, the CAS Public Open Day (tell public, children, and even faculties in CAS how to observe sun safely).
+      </p>
+    </div>
+
+  <h2>Online Outreach</h2>
+    <p class="sub">It's better to share knowledge online for I人 :D</p>
+    <div class="card photo">
+      <img src="images/outreach/zhihu.jpg" alt="Zhihu">
+      <p>
+        Zhihu (知乎) is a Chinese Q&amp;A platform like Quora. Sometimes I write scientific answers on it just for fun,
+        and document my orthodontic experiences. Welcome to follow me, a Top Astronomy Answerer on Zhihu
+        <a href="https://www.zhihu.com/people/stellarxu">@astroR2</a>!<br> (I also have 15k followers!)
+        Here is a <a href="https://www.zhihu.com/people/stellarxu/collections">collection</a>
+        of my Zhihu articles (in Chinese).
+      </p>
+    </div>
+
+    <h2>Photos</h2>
+    <p class="sub">Amateur photos by me (still learning).</p>
+
+    <!-- 照片墙: 一张照片一个 <figure>, 增删只要复制或删除一块。
+         图片按原比例显示, 不裁切; 宽图加 class="wide", 占两列宽。 -->
+    <div class="wall">
+
+      <figure class="wide">
+        <img src="images/outreach/lunar_eclipse.jpg" alt="Total lunar eclipse">
+        <figcaption>Total lunar eclipse on 2018.01.31 (my first astronomical photo using a 5cm handheld monocular and my phone)</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/Partial_sun_eclipse.jpg" alt="Partial sun eclipse">
+        <figcaption>Partial sun eclipse on 2020.06.21 (also use that monocular)</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/first_quarter_moon.jpg" alt="First quarter moon">
+        <figcaption>First quarter moon (use a 5cm toy telescope)</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/aurora.jpg" alt="Aurora">
+        <figcaption>Aurora in Beijing on 2024.05.11</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/Miyun_bulaotun.jpg" alt="Aurora">
+        <figcaption>Interferometry array in Beijing's Miyun Bulaotun on 2024.05.11</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/rocket_cloud.jpg" alt="Rocket cloud seen from an airplane">
+        <figcaption>Beautiful rocket cloud seen from an airplane on 2025.09.29</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/K-H_cloud.jpg" alt="Kelvin-Helmholtz clouds in Beijing">
+        <figcaption>Rare Kelvin–Helmholtz clouds in Beijing on 2024.09.30</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/lamost.jpg" alt="LAMOST under the night sky">
+        <figcaption>LAMOST under the night sky at Xinglong Station on 2025.12.16</figcaption>
+      </figure>
+
+      <figure>
+        <img src="images/outreach/Orion.jpg" alt="Orion">
+        <figcaption>Orion at Xinglong Station on 2025.12.17</figcaption>
+      </figure>
+
+    </div>
+
+
+  </main>
+
+  <!-- ================= 页脚 ================= -->
+  <footer>Edited by astroR2 · Last updated <span id="last-updated">2026</span> · All rights reserved.</footer>
+
+</body>
+</html>

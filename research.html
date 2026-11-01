@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 浏览器标签页 / 搜索结果里显示的标题 -->
+  <title>Research · Xu, Chen / astroR2 - Homepage</title>
+  <meta name="description" content="Xu, Chen's personal homepage. ">
+
+  <link rel="icon" href="images/common/favicon.ico">
+  <link rel="apple-touch-icon" href="images/common/apple-touch-icon.png">
+
+  <!-- 样式在 assets/style.css, 脚本在 assets/site.js (暗色模式要尽早加载, 所以放在 head) -->
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/site.js"></script>
+</head>
+
+<body>
+
+  <!-- ================= 顶部导航栏 (每个页面都一样) ================= -->
+  <header class="nav">
+    <a class="brand" href="index.html">Xu, Chen <span>/ astroR2 - Homepage</span></a>
+    <nav>
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="research.html" class="on">Research</a></li>
+          <li><a href="talks.html">Talks &amp; Awards</a></li>
+          <li><a href="outreach.html">Outreach</a></li>
+          <li><a href="more.html">More</a></li>
+
+          <!-- 暗色/浅色切换按钮 (逻辑在 assets/site.js) -->
+          <li><button id="theme" type="button" aria-label="Toggle dark mode">Dark</button></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1 class="page-title">Research</h1>
+    <p class="sub">FAST HI surveys, from raw data pipeline to scientific studies</p>
+
+    <!-- ===== 研究 panel: HiFAST technique =====
+         图片放在 images/research/hifast.png (没有图片时显示淡蓝色占位块) -->
+    <section class="panel">
+      <div class="ph">
+        <img src="images/research/hifast.png" alt="HiFAST pipeline"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/research/hifast.png'))">
+      </div>
+      <div>
+        <h3>HiFAST pipeline</h3>
+        <p><a href="https://hifast.readthedocs.io/en/v1.4/index.html">HiFAST</a> is the HI data calibration and imaging pipeline for FAST. 
+          I work on the pipeline's data-quality side: standing wave (ripple) removal and RFI flagging,
+           which matter most for faint, diffuse HI.</p>
+
+        <!-- 相关论文列表: 一篇一个 <li> -->
+        <ul class="papers">
+          <li>Yingjie Jing, Jie Wang, <b>Chen Xu</b> <i>et al.</i> HiFAST: An H i data calibration and imaging pipeline for FAST, Sci. China PMA 67, 259514 (2024) <a href="https://doi.org/10.1007/s11433-023-2333-8">link</a></li>
+          <li>Ziming Liu, Jie Wang, Yingjie Jing, Zhiyu Zhang, <b>Chen Xu</b> <i>et al.</i> HiFAST II. Flux Density Calibration, RAA (2024) <a href="https://doi.org/10.1088/1674-4527/ad5398">link</a></li>
+          <li><b>Chen Xu</b>, Jie Wang, Yingjie Jing <i>et al.</i> HiFAST III. Standing Wave Removal, RAA 25 015011 (2025) <a href="https://iopscience.iop.org/article/10.1088/1674-4527/ad9653">link</a></li>
+          <li>Qingze Chen, Jie Wang, Yingjie Jing, Ligang Hou, <b>Chen Xu</b> <i>et al.</i> HiFAST IV: The stray-radiation correction, Chin. Phys. B 35 059501 (2026) <a href="https://doi.org/10.1088/1674-1056/ae4b27">link</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===== 研究 panel: HI 气体含量与恒星形成 =====
+         图片放在 images/research/hhd.png (没有图片时显示淡蓝色占位块) -->
+    <section class="panel">
+      <div class="ph">
+        <img src="images/research/hhd.png" alt="HI gas content and star formation"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/research/hhd.png'))">
+      </div>
+      <div>
+        <h3>HI gas content and star formation</h3>
+        <p>
+          Neutral hydrogen (HI) is the fuel for star formation in galaxies. Using the deep HI data of the
+          <b>FAST-HD² Survey</b> (Hundred-deg<sup>2</sup> HI Deep Survey) together with DESI optical data, I study the HI content
+          of low-redshift galaxies and how it connects to their stellar properties and star formation. The full survey is
+          designed to map a contiguous ~100 deg<sup>2</sup> region within the DESI DR1 footprint, with an effective integration
+          time of 20 minutes per beam and a uniform detection sensitivity of 0.28 mJy beam<sup>-1</sup> at 4.8 km s<sup>-1</sup>
+          resolution.
+        </p>
+        <a class="btn" href="https://ccg-fast.github.io/hd2/" target="_blank">HD² Survey website ↗</a>
+
+        <!-- 相关论文列表: 一篇一个 <li> -->
+        <ul class="papers">
+          <li><b>Chen Xu</b>, Jie Wang, Yingjie Jing <i>et al.</i> The FAST Hundred-deg² H I Deep (HD²) Survey: Early Results from the Pilot Survey, ApJS 285 25 (2026) <a href="https://iopscience.iop.org/article/10.3847/1538-4365/ae7331">link</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ===== 研究 panel: M31 周围的弥散 HI 气体 =====
+         图片放在 images/research/M31_halo.png (没有图片时显示淡蓝色占位块) -->
+    <section class="panel">
+      <div class="ph">
+        <img src="images/research/M31_halo.png" alt="Diffuse HI gas around M31"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/research/M31_halo.png'))">
+      </div>
+      <div>
+        <h3>Diffuse HI gas around M31</h3>
+        <p>
+          With the deep FAST-M31 HI observations, I study the distribution of the diffuse HI gas in the outer disk 
+          of our neighbor galaxy Andromeda (M31), where the HI column density drops to the order of
+          10<sup>17–18</sup> cm<sup>-2</sup>.
+        </p>
+        <a class="btn" href="https://ccg-fast.github.io/m31/" target="_blank">M31 Survey website ↗</a>
+
+        <!-- 相关论文列表: 一篇一个 <li> -->
+        <ul class="papers">
+          <li><b>Chen Xu</b>, Jie Wang, Yingjie Jing <i>et al.</i> Detection of the HI disk of M31 to a radius of 63 kpc, <i>in prep</i></li>
+        </ul>
+      </div>
+    </section>
+
+
+    <!-- ===== ADS 文献库 ===== -->
+    <h2>Publications</h2>
+
+    <div class="card ads">
+      <p>My full publication list can be found in this ADS library also ORCID website:</p>
+
+      <div class="links" style="justify-content:center">
+        <a class="btn pri" href="https://ui.adsabs.harvard.edu/public-libraries/SFEEX2HBRQGLC82HfMGiSg" target="_blank">ADS Library ↗</a>
+        <a class="btn" href="https://orcid.org/0000-0003-0062-4705" target="_blank">ORCID ↗</a>
+      </div>
+    </div>
+
+<!-- ===== 观测经验 ===== -->
+    <h2>Observation Experience</h2>
+
+    <!-- ===== 观测 panel: FAST =====
+         图片放在 images/research/FAST.jpg (没有图片时显示淡蓝色占位块) -->
+    <section class="panel">
+      <div class="ph">
+        <img src="images/research/FAST.jpg" alt="FAST"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/research/FAST.jpg'))">
+      </div>
+      <div>
+        <h3>Pingtang FAST</h3>
+        <p>
+          The Five-hundred-meter Aperture Spherical Telescope in Guizhou. I work with its HI 21 cm data for the
+          HD² Survey and the FAST-M31 survey.
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== 观测 panel: Xinglong 2.16 m =====
+         图片放在 images/research/216.jpg -->
+    <section class="panel">
+      <div class="ph">
+        <img src="images/research/216.jpg" alt="Xinglong 2.16 m telescope"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/research/216.jpg'))">
+      </div>
+      <div>
+        <h3>Xinglong 2.16 m telescope</h3>
+        <p>
+          Optical spectroscopy with BFOSC.
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== 观测 panel: Lijiang 2.4 m =====
+         图片放在 images/research/2m4.jpg -->
+    <section class="panel">
+      <div class="ph">
+        <img src="images/research/2m4.jpg" alt="Lijiang 2.4 m telescope"
+             onerror="this.replaceWith(document.createTextNode('image placeholder · images/research/2m4.jpg'))">
+      </div>
+      <div>
+        <h3>Lijiang 2.4 m telescope</h3>
+        <p>
+          Integral-field observations with the CHILI IFU.
+        </p>
+      </div>
+    </section>
+
+        <!-- ===== 研究 panel: GMRT (没有照片, 文字占满整行) ===== -->
+    <section class="panel nophoto">
+      <div>
+        <h3>GMRT</h3>
+        <p>
+          The Giant Metrewave Radio Telescope in India. I am a Co-I on a GMRT observing project of dark galaxy.
+        </p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ================= 页脚 ================= -->
+  <footer>Edited by astroR2 · Last updated <span id="last-updated">2026</span> · All rights reserved.</footer>
+
+</body>
+</html>

@@ -1,0 +1,215 @@
+/* ==========================================================
+   站点样式 (所有页面共用)
+   目录: 1 颜色  2 基础  3 导航栏  4 首页大图  5 通用组件
+         6 About  7 研究 panel  8 图文块  9 手机适配  10 页脚/按钮
+   ========================================================== */
+
+
+/* ---------- 1. 颜色 ----------
+   想换配色, 改这里的变量就行。
+   --acc  链接/按钮蓝      --h  小标题颜色
+   --bg   页面背景         --card  卡片背景        */
+:root {
+  --bg:   #f6f7f9;
+  --fg:   #1c2230;
+  --mute: #667085;
+  --line: #e3e6ec;
+  --card: #ffffff;
+  --acc:  #1f6feb;
+  --dark: #0b1020;   /* 导航栏深蓝 */
+  --h:    #0b1020;   /* 小标题 (浅色模式) */
+}
+
+/* 暗色模式: 点按钮切换时使用 */
+:root[data-theme="dark"] {
+  --bg: #0d1119; --fg: #e6e9f0; --mute: #98a2b3; --line: #232a3a;
+  --card: #141a26; --acc: #58a6ff; --h: #8fb0ff;
+}
+
+/* 暗色模式: 没手动选择时, 跟随系统 (和上面是同一套颜色) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d1119; --fg: #e6e9f0; --mute: #98a2b3; --line: #232a3a;
+    --card: #141a26; --acc: #58a6ff; --h: #8fb0ff;
+  }
+}
+
+
+/* ---------- 2. 基础 ---------- */
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.7 -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", Helvetica, Arial, sans-serif;
+}
+
+a { color: var(--acc); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+main { max-width: 980px; margin: 0 auto; padding: 3rem 1.5rem 4rem; }  /* 正文宽度 */
+.page-title { font-size: 2rem; margin: 0 0 .3rem; }                    /* 页面大标题 */
+.sub { color: var(--mute); margin: 0 0 2rem; }                          /* 大标题下的灰色小字 */
+
+h2 {                                                                     /* 小标题 */
+  color: var(--h);
+  font-size: 1.25rem;
+  margin: 2.4rem 0 .8rem;
+  padding-bottom: .4rem;
+  border-bottom: 1px solid var(--line);
+}
+
+
+/* ---------- 3. 顶部导航栏 ---------- */
+header.nav {
+  position: sticky; top: 0; z-index: 10;               /* 滚动时固定在顶部 */
+  display: flex; align-items: center; justify-content: space-between;
+  padding: .9rem 2rem;
+  background: rgba(11, 16, 32, .92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #ffffff14;
+}
+.nav .brand { color: #fff; font-weight: 600; letter-spacing: .04em; text-decoration: none; }
+.nav .brand span { color: #8fb0ff; font-weight: 400; }
+
+.nav ul { display: flex; gap: 1.6rem; list-style: none; margin: 0; padding: 0; flex-wrap: wrap; }
+.nav ul a {
+  color: #c9d1e6; font-size: .92rem; padding: .3rem 0;
+  border-bottom: 2px solid transparent;
+}
+.nav ul a:hover,
+.nav ul a.on { color: #fff; border-color: #8fb0ff; text-decoration: none; }   /* .on = 当前页面 */
+
+/* 暗色/浅色切换按钮 */
+#theme {
+  background: none; border: 1px solid #ffffff40; color: #c9d1e6;
+  border-radius: 999px; padding: .15rem .8rem;
+  font: inherit; font-size: .85rem; cursor: pointer;
+}
+#theme:hover { color: #fff; border-color: #8fb0ff; }
+
+
+/* ---------- 4. 首页大图区 ---------- */
+.hero {
+  position: relative; min-height: 62vh;                /* 大图高度, 想矮一点改这里 */
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  color: #fff; overflow: hidden;
+  background: radial-gradient(ellipse at 70% 20%, #1d2a55 0, var(--dark) 60%);   /* 没有图片时的深蓝渐变 */
+}
+.hero .bg { position: absolute; inset: 0; background-size: cover; background-position: center; opacity: .55; }
+.hero .ph-note { position: absolute; right: 1rem; bottom: .8rem; font-size: .75rem; color: #ffffff66; }  /* 右下角占位提示, 放好图后可删 */
+.hero .in { position: relative; padding: 2rem; max-width: 760px; }
+.hero h1 { font-size: clamp(2.2rem, 6vw, 3.8rem); margin: .2em 0; font-weight: 600; letter-spacing: .02em; }
+.hero p { color: #c9d1e6; margin: .3rem 0; }
+.hero .tag { font-size: .85rem; letter-spacing: .25em; text-transform: uppercase; color: #8fb0ff; }
+.hero .btn { background: #ffffff10; border-color: #ffffff30; color: #e6e9f0; }
+.hero .btn:hover { border-color: #8fb0ff; color: #fff; }
+
+/* 栏目入口卡片 (压在大图下沿) */
+.tiles {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem;
+  max-width: 1100px; margin: -3.2rem auto 0; padding: 0 1.5rem; position: relative;
+}
+.tile {
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+  padding: 1.2rem 1.3rem; color: var(--fg); transition: .2s;
+}
+.tile:hover { transform: translateY(-3px); border-color: var(--acc); text-decoration: none; box-shadow: 0 8px 24px #0002; }
+.tile b { display: block; font-size: 1.05rem; }
+.tile small { color: var(--mute); }
+
+
+/* ---------- 5. 通用组件 ---------- */
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 1.3rem 1.5rem; margin: 1rem 0; }
+
+ul.clean { padding-left: 1.1rem; }
+ul.clean li { margin: .45rem 0; }
+.date { color: var(--mute); font-size: .88rem; margin-right: .6rem; }       /* 列表里的日期 */
+
+.badge {                                                                    /* 小标签, 如 first author */
+  display: inline-block; font-size: .72rem; padding: .05rem .5rem;
+  border: 1px solid var(--line); border-radius: 999px; color: var(--mute);
+}
+
+/* 全宽图片 + 说明文字*/
+figure.wide { margin: 1.5rem 0; }
+figure.wide img { width: 100%; height: auto; border: 0; border-radius: 8px; display: block; }
+figure.wide figcaption { margin-top: .5rem; font-size: .85rem; color: var(--mute); text-align: center; }
+
+
+/* ---------- 6. About (首页) ---------- */
+.about { display: grid; grid-template-columns: 340px 1fr; gap: 2rem; align-items: start; }   /* 340px = 照片宽度 */
+.about img.avatar { width: 100%; border-radius: 12px; border: 0; display: block; }
+.about figure { margin: 0; }
+.about figcaption { margin-top: .5rem; font-size: .85rem; color: var(--mute); text-align: center; }
+.about h3 { margin: 0 0 .2rem; font-size: 1.1rem; color: var(--h); }
+.about h3:not(:first-child) { margin-top: 1.4rem; }
+
+/* ---------- 7. 研究 panel (research.html) ---------- */
+.panel {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;                /* 图片占一半, 文字占一半 */
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 1.2rem; margin: 1.4rem 0;
+}
+.panel:nth-of-type(even) .ph { order: 2; }                                   /* 偶数个 panel 图片放右边 */
+
+.ph {                                                                        /* 图片格 (无边框) */
+  min-height: 240px; border: 0; border-radius: 8px; overflow: hidden;
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  padding: .5rem; color: var(--mute); font-size: .85rem;
+  background: #fcfcfc00;                                                     /* 没图时的淡蓝占位色 */
+}
+.ph img { width: 100%; height: auto; border: 0; display: block; }
+
+.panel h3 { margin: .1rem 0 .4rem; font-size: 1.2rem; }
+.panel .papers { font-size: .93rem; margin-top: .8rem; padding-left: 1.1rem; }
+.panel .papers li { margin: .4rem 0; }
+
+.ads { text-align: center; padding: 2rem 1.5rem; }  
+
+.panel.nophoto { grid-template-columns: 1fr; }   /* 没有图片的 panel: 文字占满整行 */
+
+/* ---------- 8. 图文块 (Outreach / More) ---------- */
+.photo {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; align-items: center;   /* 图片占一半 */
+  border: 0; padding: 0; background: transparent;
+}
+.photo img { width: 100%; border: 0; border-radius: 8px; display: block; }
+.photo h3 { margin: 0 0 .4rem; font-size: 1.1rem; color: var(--h); }
+.photo.stack { grid-template-columns: 1fr; }   /* 宽图用: 图片在上占满整行, 文字在下 */
+
+/* 照片墙 (瀑布流: 按列从上往下排, 高矮不一的图不会留空) */
+.wall { column-count: 2; column-gap: 1.5rem; }
+.wall figure { margin: 0 0 1.5rem; break-inside: avoid; }          /* 一张图和它的 caption 不会被拆开到两列 */
+.wall figure.wide { column-span: all; }                            /* 宽图独占一整行 */
+.wall img { width: 100%; height: auto; border: 0; border-radius: 6px; display: block; }
+.wall figcaption { margin-top: .4rem; font-size: .9rem; color: var(--mute); }
+
+@media (min-width: 1000px) { .wall { column-count: 3; } }           /* 屏幕够宽时排三列 */
+@media (max-width: 560px)  { .wall { column-count: 1; } }           /* 手机上单列 */
+
+/* ---------- 9. 手机适配 (屏幕宽度 < 760px) ---------- */
+@media (max-width: 760px) {
+  .about, .photo, .panel { grid-template-columns: 1fr; }     /* 图片和文字改为上下排 */
+  .panel:nth-of-type(even) .ph { order: 0; }
+  header.nav { flex-direction: column; gap: .5rem; }
+}
+
+
+/* ---------- 10. 按钮 / 外部链接 / 页脚 ---------- */
+.links { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
+.btn {
+  display: inline-flex; align-items: center; gap: .4rem;
+  padding: .4rem .9rem; border: 1px solid var(--line); border-radius: 999px;
+  background: var(--card); color: var(--fg); font-size: .9rem;
+}
+.btn:hover { border-color: var(--acc); color: var(--acc); text-decoration: none; }
+.btn.pri { background: var(--acc); color: #fff; border-color: var(--acc); }   /* 蓝色实心按钮 */
+.btn.pri:hover { color: #fff; opacity: .9; }
+
+footer {
+  text-align: center; color: var(--mute); font-size: .82rem;
+  padding: 2rem 1rem; border-top: 1px solid var(--line);
+}
